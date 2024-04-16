@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">flashcards app</string>
+    <string name="resposta">RESPOSTA</string>
+    <string name="pergunta">PERGUNTA</string>
+    <string name="as_minhas_flashcards">As Minhas Flashcards</string>
+    <string name="criar_flashcards">Criar Flashcards</string>
+    <string name="ver_resposta">Ver Resposta</string>
+    <string name="salvar_o_flashcard">Salvar o Flashcard</string>
+</resources>
